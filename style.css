@@ -99,7 +99,7 @@ section {
 .home {
     width: 100%;
     min-height: 100vh;
-    background-image: url('/assests/images/home-img.jpeg');
+    background-image: url('home-img.jpeg');
     background-size: cover;
     display: flex;
     align-items: center;
